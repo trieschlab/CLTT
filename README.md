@@ -35,7 +35,7 @@ If you make use of this code please cite as follows:
 The generator script for the Miyashita-style dataset can be found at [github.com/mrernst/miyashita_fractals](https://github.com/mrernst/miyashita_fractals). Run the script with options --imgsize 64 --stimuli 100 to get the 100 fractals used for this work.
 
 #### TDW
-The ThreeDWorld (TDW) dataset will be available from Zenodo at []{}
+The ThreeDWorld (TDW) dataset will be available from [Zenodo](https://doi.org/10.5281/zenodo.5776080).
 
 #### COIL-100
 COIL-100 is publicly available at [https://www.cs.columbia.edu/CAVE/software/softlib/coil-100.php](https://www.cs.columbia.edu/CAVE/software/softlib/coil-100.php)
