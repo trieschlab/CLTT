@@ -2,7 +2,7 @@
 ## Contrastive Learning Through Time
 
 <p align="center">
-  <img src="https://github.com/trieschlab/cltt/blob/main/img/header.png" width="500">
+  <img src="https://github.com/trieschlab/cltt/blob/release/img/header.png" width="500">
 
 CLTT stands for Contrastive Learning Through Time. It is the codebase used for the SVRHM NeurIPS workshop publication "Contrastive Learning Through Time" [1]. 
 If you make use of this code please cite as follows:
