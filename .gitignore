@@ -127,3 +127,29 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets and Save Folders
+data/fractals100_64x64/*
+data/spherical_photoreal_64x64_DoF/*
+save/*
+data/*
+
+# Monodraw Files
+*.monopic
+
+# Nova Folder
+.nova
+
+# IDE stuff
+.idea
+
+# bash scripts
+*.sh
+
+# development sbatch script
+run_on_cluster.sbatch
+*.csv
+*.tsv
+
+# plot script for specific experiments
+main/draw_results.py
